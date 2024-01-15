@@ -24,4 +24,5 @@ https://www.figma.com/file/WQqnDCSXkqYXkmujQbpyyO/Untitled?type=design&node-id=0
 
 ## Entity Relationship Diagram
 
-올려 김동연 얼른
+![image](https://github.com/FiveIdiotss/.github/assets/109346159/653b929c-d1e1-460a-b42a-be61f2911f3d)
+
